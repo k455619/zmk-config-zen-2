@@ -1,6 +1,6 @@
 manifest:
   remotes:
-    - name: k455619
+    - name: zmkfirmware
       url-base: https://github.com/k455619
   projects:
     - name: zmk
