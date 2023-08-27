@@ -1,6 +1,6 @@
 manifest:
   remotes:
-    - name: MaxGust
+    - name: k455619
       url-base: https://github.com/k455619
   projects:
     - name: zmk
